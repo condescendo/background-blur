@@ -1,3 +1,3 @@
-# color-picker
+# background - blur
 
-Python Programe to pick colour from a live video feed.
+Python programme toblur background in a live video feed.
