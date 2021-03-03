@@ -1,3 +1,3 @@
 # background - blur
 
-Python programme toblur background in a live video feed.
+Python programme to blur background in a live video feed.
